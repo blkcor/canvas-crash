@@ -1,10 +1,11 @@
 * {
     padding: 0;
     margin: 0;
-    background-color: rgb(140, 220, 122);
+    /* background-color: rgb(140, 220, 122); */
 }
 
 #canvas1 {
+    /* transform: rotate(-90deg); */
     position: absolute;
     top: 0;
     left: 0;
